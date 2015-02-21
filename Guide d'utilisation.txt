@@ -1,5 +1,0 @@
-1-installer wamp server.
-2-creer la table scolarite(nomcomplet text, cne text, cin text, demende text, niveau text), à l'aide de phpMyAdmin
-
-3- ouvrire ENSA 3D.exe pour visiter L'ENSA avec un Joueur.
-4- ouvrire ENSA 3D(sans joueur) pour visité l'ensa 
